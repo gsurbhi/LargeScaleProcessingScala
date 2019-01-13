@@ -1,4 +1,4 @@
-# Makefile for Spark WordCount project.
+# Makefile for Classification and Prediction project.
 
 # Customize these paths for your environment.
 # -----------------------------------------------------------
