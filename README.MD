@@ -1,14 +1,3 @@
-Final Project for CS6240
-
-Team Name: 
-MR001
-
-Team mates:
-
-Sushmita Chaudhari
-Surbhi Garg
-Aman Rayat
-
 Task 1: Joins
 
 Overview 
