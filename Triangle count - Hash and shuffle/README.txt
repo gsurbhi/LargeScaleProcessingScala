@@ -1,11 +1,3 @@
-Hadoop MapReduce WordCount Demo
-Code for CS6240 Project
-Fall 2018
-
-Code author
------------
-Aman Rayat
-
 Installation
 ------------
 These components are installed:
