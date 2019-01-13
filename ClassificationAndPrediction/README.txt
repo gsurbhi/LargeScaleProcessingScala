@@ -1,12 +1,3 @@
-Scala Full Page Rank
-Fall 2018
-
-Reference: Joe Sackett
-
-Code author
------------
-Sushmita and Surbhi
-
 Installation
 ------------
 These components are installed:
